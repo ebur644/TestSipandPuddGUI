@@ -51,7 +51,7 @@
             // 
             // SipnPuff
             // 
-            this.SipnPuff.PortName = "COM3";
+            this.SipnPuff.PortName = "COM4";
             this.SipnPuff.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.SipnPuff_DataReceived);
             // 
             // SipCalebrationBar
