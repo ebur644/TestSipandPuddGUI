@@ -1,0 +1,13 @@
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\bin\Debug\TestSipandPuddGUI.exe.config
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\bin\Debug\TestSipandPuddGUI.exe
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\bin\Debug\TestSipandPuddGUI.pdb
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.AssemblyReference.cache
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.Properties.Resources.resources
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.GenerateResource.cache
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.CoreCompileInputs.cache
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.exe
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.pdb
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.Calibration.resources
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ebur6\source\repos\TestSipandPuddGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.CopyComplete
