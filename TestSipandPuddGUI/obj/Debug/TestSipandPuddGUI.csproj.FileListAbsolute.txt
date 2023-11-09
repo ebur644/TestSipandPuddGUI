@@ -24,3 +24,16 @@ C:\Users\ebur6\source\repos\TestSipandPuddGUI\Visual Studio\TestSipandPuddGUI\ob
 C:\Users\ebur6\source\repos\TestSipandPuddGUI\Visual Studio\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.CopyComplete
 C:\Users\ebur6\source\repos\TestSipandPuddGUI\Visual Studio\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.exe
 C:\Users\ebur6\source\repos\TestSipandPuddGUI\Visual Studio\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.pdb
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\bin\Debug\TestSipandPuddGUI.exe.config
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\bin\Debug\TestSipandPuddGUI.exe
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\bin\Debug\TestSipandPuddGUI.pdb
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\bin\Debug\Newtonsoft.Json.dll
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\bin\Debug\Newtonsoft.Json.xml
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.AssemblyReference.cache
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.Calibration.resources
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.Properties.Resources.resources
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.GenerateResource.cache
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.CoreCompileInputs.cache
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.csproj.CopyComplete
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.exe
+D:\school\source\repos\TestSipandPuddGUI\SipnPuffGUI\TestSipandPuddGUI\obj\Debug\TestSipandPuddGUI.pdb
